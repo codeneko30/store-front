@@ -8,6 +8,9 @@ export default [
     route('cart', 'routes/cart.tsx'),
     route('order-confirmation', 'routes/order-confirmation.tsx'),
     route('product-detail', 'routes/product-detail.tsx'),
+    route('faq','routes/faq.tsx'),
+    route('subscription','routes/subscription.tsx'),
+    route('gift-subscription','routes/gift-subscription.tsx'),
 
     route('test', 'routes/test.tsx'),
     route('test-2', 'routes/test-2.tsx'),
